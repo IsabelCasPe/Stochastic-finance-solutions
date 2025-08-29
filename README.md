@@ -16,6 +16,7 @@ Este projeto reflete meu esforço pessoal em criar soluções em LaTeX e Python 
 - Cap. 1: Fundamentos de Probabilidade.
 - Cap. 2: Processos Estocásticos Discretos.
 - Cap. 3+: Tópicos Avançados.
+- Cap. 11 : Example - Conditional Value at Risk (CVaR) [example11.7](example11.7.png)
 
 ## Como Usar
 1. Clone o repositório:
