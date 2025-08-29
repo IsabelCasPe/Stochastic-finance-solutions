@@ -7,8 +7,8 @@ Este projeto reflete meu esforço pessoal em criar soluções em LaTeX e Python 
 
 ## Conteúdo
 - **Soluções**: Exercícios resolvidos em LaTeX e Python para os capítulos do livro.
-- **Gráficos e Simulações**: Exemplos visuais (ex.: caminhada aleatória) em progresso. Veja `images/random_walk.png`.
-- **Apresentação**: Introdução ao tema em `Introduction.pdf` .
+- **Gráficos e Simulações**: Exemplos visuais (ex.: caminhada aleatória) em progresso. Veja [Random_walk](fig1.png).
+- **Apresentação**: Introdução ao tema em [Introduction](Introduction.pdf) .
 - **Exemplos**: Modelos estocásticos reais em desenvolvimento.
 
 ## Conteúdo do Livro
@@ -16,10 +16,6 @@ Este projeto reflete meu esforço pessoal em criar soluções em LaTeX e Python 
 - Cap. 1: Fundamentos de Probabilidade.
 - Cap. 2: Processos Estocásticos Discretos.
 - Cap. 3+: Tópicos Avançados.
-- Soluções em LaTeX e Python para os capítulos do livro.
-- Gráficos e simulações.
-- Exemplos baseados em modelos estocásticos reais.
-
 
 ## Como Usar
 1. Clone o repositório:
