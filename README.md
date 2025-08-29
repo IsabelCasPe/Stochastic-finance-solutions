@@ -1,11 +1,25 @@
 # Stochastic Finance Solutions
 
-Solucionário dos exercícios propostos no *Stochastic Finance: An Introduction in Discrete Time* de Hans Föllmer e Alexander Schied, desenvolvido por Ana Isabel Castillo. Este repositório é um recurso para estudantes e entusiastas de finanças estocásticas, com foco em aplicações práticas e rigor matemático.
+Solucionário dos exercícios propostos no *Stochastic Finance: An Introduction in Discrete Time* de Hans Föllmer e Alexander Schied, desenvolvido por **Ana Isabel Castillo (@IsabelCasPe)**. Este repositório é um recurso aberto para estudantes e entusiastas de finanças estocásticas, com foco em aplicações práticas e rigor matemático. 📊💙
+
+## Sobre
+Este projeto reflete meu esforço pessoal em criar soluções em LaTeX e Python para os exercícios do livro, combinando teoria e simulações. Sinta-se à vontade para usar e aprender, mas **dê os devidos créditos à minha autoria** conforme a licença MIT.
 
 ## Conteúdo
+- **Soluções**: Exercícios resolvidos em LaTeX e Python para os capítulos do livro.
+- **Gráficos e Simulações**: Exemplos visuais (ex.: caminhada aleatória) em progresso. Veja `images/random_walk.png`.
+- **Apresentação**: Introdução ao tema em `Introduction.pdf` .
+- **Exemplos**: Modelos estocásticos reais em desenvolvimento.
+
+## Conteúdo do Livro
+[Cap1](cap1.pdf) ... [Cap11](cap11.pdf)
+- Cap. 1: Fundamentos de Probabilidade.
+- Cap. 2: Processos Estocásticos Discretos.
+- Cap. 3+: Tópicos Avançados.
 - Soluções em LaTeX e Python para os capítulos do livro.
-- Gráficos e simulações (em progresso).
+- Gráficos e simulações.
 - Exemplos baseados em modelos estocásticos reais.
+
 
 ## Como Usar
 1. Clone o repositório:
