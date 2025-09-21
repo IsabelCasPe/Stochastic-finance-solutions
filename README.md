@@ -25,7 +25,10 @@ Este projeto reflete meu esforço pessoal em criar soluções em LaTeX e Python 
 
 ## License  MIT License
 
-Copyright ©  2025 - Ana Isabel Castillo P. 
+Copyright ©  2025 - MIT License. 
 
-
-## **"Explorando o caos com rigor: o primeiro passo para dominar as finanças!"** 📊💙♾️
+---
+## Inspiration.
+>**"Explorando o caos com rigor: o primeiro passo para dominar as finanças!"** 📊♾️
+> Copyright ©  2025 - Prof. Ana Isabel Castillo P. 💙
+---
