@@ -1,4 +1,15 @@
-# Stochastic Finance Solutions
+<!-- HERO -->
+# Stochastic Finance 📈💹📊 💎 ✨
+
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-gold)
+![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4)
+
+**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Licença MIT](#licença--license--licencia)
+
+---
+## Stochastic Finance Solutions
 
 Solucionário dos exercícios propostos no *Stochastic Finance: An Introduction in Discrete Time* de Hans Föllmer e Alexander Schied, desenvolvido por **Ana Isabel Castillo (@IsabelCasPe)**. Este repositório é um recurso aberto para estudantes e entusiastas de finanças estocásticas, com foco em aplicações práticas e rigor matemático. 📊💙
 
